@@ -1,0 +1,2 @@
+C:\ЭВМ\test\Debug\test.exe
+C:\ЭВМ\test\Debug\test.pdb
